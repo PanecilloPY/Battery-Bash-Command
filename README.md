@@ -1,3 +1,6 @@
+[!NOTE] 
+This script has been written in Spanish
+
 ```
 # Battery Status Script
 
