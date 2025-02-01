@@ -1,7 +1,7 @@
 > [!NOTE]
 > This script has been written in Spanish
 
-```
+
 # Battery Status Script
 
 This is a Bash script that displays the current battery status on a Linux system, including the battery level and whether it is charging or not. The script uses colors and a graphical bar to visually represent the battery level.
@@ -14,14 +14,17 @@ This is a Bash script that displays the current battery status on a Linux system
 ## How to Use
 
 1. Save the script to a file, for example, `battery.sh`.
+
 2. Make the script executable:
    ```bash
    chmod +x battery.sh
    ```
+
 3. Run the script:
    ```bash
    ./battery.sh
    ```
+
 
 ## Script Explanation
 
