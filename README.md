@@ -1,6 +1,4 @@
-Here’s the `README.md` content translated into English, formatted for GitHub. You can copy and paste this directly into a `README.md` file in your repository:
-
-```markdown
+```
 # Battery Status Script
 
 This is a Bash script that displays the current battery status on a Linux system, including the battery level and whether it is charging or not. The script uses colors and a graphical bar to visually represent the battery level.
