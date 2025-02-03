@@ -6,6 +6,12 @@
 
 This is a Bash script that displays the current battery status on a Linux system, including the battery level and whether it is charging or not. The script uses colors and a graphical bar to visually represent the battery level.
 
+
+![image](https://github.com/user-attachments/assets/8068c2f1-56ee-45ef-a315-d5f4f337c5bd)
+
+
+
+
 ## Requirements
 
 - A Linux system with a battery (e.g., a laptop).
